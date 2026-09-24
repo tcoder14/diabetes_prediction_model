@@ -4,16 +4,6 @@ A machine learning project that predicts whether a patient has diabetes from med
 
 Model Link: https://colab.research.google.com/drive/15hjXa-6lp6O5k70DFDpiYbC9J5SGOccq?usp=sharing
 
-## Table of Contents
-- [Overview](#-overview)
-- [Dataset](#-dataset)
-- [Project Structure](#-project-structure)
-- [Methodology](#-methodology)
-- [Results](#-results)
-- [Getting Started](#-getting-started)
-- [Limitations & Future Work](#-limitations--future-work)
-- [Tech Stack](#-tech-stack)
-
 ---
 
 ## Overview
