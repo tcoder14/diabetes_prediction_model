@@ -52,11 +52,11 @@ Model Link: https://colab.research.google.com/drive/15hjXa-6lp6O5k70DFDpiYbC9J5S
 
 **Class balance:** 500 non-diabetic (65.1%) and 268 diabetic (34.9%).
 
-> ⚠️ **Data quality note:** The dataset has no `NaN` values, but `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin` and `BMI` contain zeros that are medically impossible. These are placeholders for missing data (for example, 374 of 768 `Insulin` values are zero). This project treats them as missing and imputes them.
+>  **Data quality note:** The dataset has no `NaN` values, but `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin` and `BMI` contain zeros that are medically impossible. These are placeholders for missing data (for example, 374 of 768 `Insulin` values are zero). This project treats them as missing and imputes them.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── Diabetes Prediction Model.ipynb   # Main notebook (EDA, training, evaluation)
